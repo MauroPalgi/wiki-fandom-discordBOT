@@ -1,0 +1,9 @@
+# PERSONAL CONFIGURATION
+
+.env
+.eslintrc.js
+.vscode
+
+# FILES
+
+node_modules
